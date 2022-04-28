@@ -1,0 +1,15 @@
+D:\Orders\C#\Ryabov\Ryabov\bin\Debug\net6.0\Ryabov.exe
+D:\Orders\C#\Ryabov\Ryabov\bin\Debug\net6.0\Ryabov.deps.json
+D:\Orders\C#\Ryabov\Ryabov\bin\Debug\net6.0\Ryabov.runtimeconfig.json
+D:\Orders\C#\Ryabov\Ryabov\bin\Debug\net6.0\Ryabov.dll
+D:\Orders\C#\Ryabov\Ryabov\bin\Debug\net6.0\ref\Ryabov.dll
+D:\Orders\C#\Ryabov\Ryabov\bin\Debug\net6.0\Ryabov.pdb
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\Ryabov.csproj.AssemblyReference.cache
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\Ryabov.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\Ryabov.AssemblyInfoInputs.cache
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\Ryabov.AssemblyInfo.cs
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\Ryabov.csproj.CoreCompileInputs.cache
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\Ryabov.dll
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\ref\Ryabov.dll
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\Ryabov.pdb
+D:\Orders\C#\Ryabov\Ryabov\obj\Debug\net6.0\Ryabov.genruntimeconfig.cache
